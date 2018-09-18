@@ -2,4 +2,4 @@ Hello World.
 A second line.
 A third Line!
 
-local update.
+resolving conflict.
